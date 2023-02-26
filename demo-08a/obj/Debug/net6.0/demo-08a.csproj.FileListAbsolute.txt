@@ -1,0 +1,15 @@
+C:\Users\dirk1\Downloads\demo-08a\bin\Debug\net6.0\demo-08a.exe
+C:\Users\dirk1\Downloads\demo-08a\bin\Debug\net6.0\demo-08a.deps.json
+C:\Users\dirk1\Downloads\demo-08a\bin\Debug\net6.0\demo-08a.runtimeconfig.json
+C:\Users\dirk1\Downloads\demo-08a\bin\Debug\net6.0\demo-08a.dll
+C:\Users\dirk1\Downloads\demo-08a\bin\Debug\net6.0\demo-08a.pdb
+C:\Users\dirk1\Downloads\demo-08a\obj\Debug\net6.0\demo-08a.csproj.AssemblyReference.cache
+C:\Users\dirk1\Downloads\demo-08a\obj\Debug\net6.0\demo-08a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dirk1\Downloads\demo-08a\obj\Debug\net6.0\demo-08a.AssemblyInfoInputs.cache
+C:\Users\dirk1\Downloads\demo-08a\obj\Debug\net6.0\demo-08a.AssemblyInfo.cs
+C:\Users\dirk1\Downloads\demo-08a\obj\Debug\net6.0\demo-08a.csproj.CoreCompileInputs.cache
+C:\Users\dirk1\Downloads\demo-08a\obj\Debug\net6.0\demo-08a.dll
+C:\Users\dirk1\Downloads\demo-08a\obj\Debug\net6.0\refint\demo-08a.dll
+C:\Users\dirk1\Downloads\demo-08a\obj\Debug\net6.0\demo-08a.pdb
+C:\Users\dirk1\Downloads\demo-08a\obj\Debug\net6.0\demo-08a.genruntimeconfig.cache
+C:\Users\dirk1\Downloads\demo-08a\obj\Debug\net6.0\ref\demo-08a.dll
